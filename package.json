@@ -1,0 +1,8 @@
+{
+    "name": "markdown_link_redirect_shortcut",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "markdown-link-extractor": "^4.0.2"
+    }
+  }
